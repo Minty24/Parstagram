@@ -1,10 +1,12 @@
+    
 //
-//  PostCell.swift
-//  Parstagram
+//  LoginViewController.swift
+//  Parstragram
 //
-//  Created by Hao on 3/16/19.
-//  Copyright © 2019 Hao. All rights reserved.
+//  Created by Min Zheng on 3/19/19.
+//  Copyright © 2019 Min Zheng. All rights reserved.
 //
+
 
 import UIKit
 
